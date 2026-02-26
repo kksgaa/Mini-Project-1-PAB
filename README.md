@@ -10,6 +10,26 @@ Aplikasi mobile berbasis Flutter untuk mengelola bisnis penyewaan mobil mainan .
 
 ---
 
+## Tampilan Aplikasi
+
+**Tampilan Dashboard**
+
+<img width="451" height="389" alt="homepage" src="https://github.com/user-attachments/assets/e4242b1f-6449-40b9-aa2a-0bd1b54786c8" />
+
+
+**Tampilan Halaman Mobil**
+
+<img width="452" height="425" alt="halaman mobil" src="https://github.com/user-attachments/assets/99712947-26a3-4db0-a162-f2288cdb9f11" />
+
+
+**Tampilan Form Penyewaan**
+
+<img width="450" height="407" alt="form penyewaan" src="https://github.com/user-attachments/assets/a4cc113c-1a08-4e8b-a2cc-242382ea66f2" />
+
+**Tampilan Daftar Penyewaan**
+
+<img width="451" height="424" alt="daftar penyewaan" src="https://github.com/user-attachments/assets/205b84f2-6a8d-4810-94bb-20fbcad99f02" />
+
 ## ✨ Fitur Aplikasi
 
 ### CRUD Lengkap
@@ -129,7 +149,7 @@ lib/
 
 ```bash
 # Clone repository
-git clone https://github.com/username/rental_mobil_mainan.git
+git clone https://github.com/kksgaa/rental_mobil_mainan.git
 cd rental_mobil_mainan
 
 # Install dependencies
